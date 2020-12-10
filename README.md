@@ -1,6 +1,6 @@
-# Mern CoreUI Admin
+# Node Auth
 
-Template for MERN Admin Dashboard with CoreUI, React and Redux with Refresh JWT Token login implementation.
+Template for Node refresh token login.
 
 ## Installation:
 
